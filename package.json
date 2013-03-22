@@ -1,0 +1,31 @@
+{
+  "name": "backbone-example",
+  "version": "0.0.1",
+  "description": "A sandbox for devs to play with node/thumbs",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:nicknisi/backbone-example.git"
+  },
+  "keywords": [
+    "backbone",
+    "jquery",
+    "underscore",
+    "thumbs"
+  ],
+  "author": "Nick Nisi",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-regarde": "~0.1.1"
+  }
+}
